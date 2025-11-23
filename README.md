@@ -47,4 +47,4 @@ pip install -r requirements.txt
 ⬇️ 4. Install YOLOv8
 pip install ultralytics
 ▶️ Run the App
-streamlit yolo_streamlit.py
+streamlit run yolo_streamlit.py
